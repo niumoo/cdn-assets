@@ -8,5 +8,5 @@ https://cdn.jsdelivr.net/gh/niumoo/cdn-assets/图片
 ```
 例如：
 ```
-https://cdn.jsdelivr.net/gh/niumoo/cdn-assets/avatar/avatar.png
+https://cdn.jsdelivr.net/gh/niumoo/cdn-assets/2019/1c08d9d35c7506cc52030a8773378f22.png
 ```
