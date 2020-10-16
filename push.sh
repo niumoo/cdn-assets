@@ -1,3 +1,4 @@
+git pull
 git status
 git add -A
 git commit -m ":tada: upload 2020"
