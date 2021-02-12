@@ -8,6 +8,6 @@ https://cdn.jsdelivr.net/gh/niumoo/cdn-assets/图片
 ```
 例如：
 ```
-https://cdn.jsdelivr.net/gh/niumoo/cdn-assets/2019/1c08d9d35c7506cc52030a8773378f22.png
+https://cdn.jsdelivr.net/gh/niumoo/cdn-assets/2021/1c08d9d35c7506cc52030a8773378f22.png
 ```
 欢迎访问网站 [https://www.wdbyte.com](https://www.wdbyte.com)
