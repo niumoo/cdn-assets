@@ -1,4 +1,4 @@
-# cdn-assets
+# cdn-assets [![](https://data.jsdelivr.com/v1/package/gh/niumoo/cdn-assets/badge)](https://www.jsdelivr.com/package/gh/niumoo/cdn-assets)
 
 获取路径： https://www.jsdelivr.com/package/gh/niumoo/cdn-assets
 
